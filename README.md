@@ -45,21 +45,20 @@ The project includes multiple dashboards designed to provide insights from diffe
 ## 📸 Project Dashboards
 
 ### 🔹 Sales Dashboard
-
 ![Sales Dashboard](EDA_Using_Python/Photos/Sales.png)
 Highlights overall sales performance and revenue trends over time. Tracks key metrics like total sales, 
 and team or regional performance to support strategic decision-making and optimize business outcomes.
 
 ### 🔹 Product Analysis Dashboard
 
-![Product Analysis]((Photos/Product.png))
-Provides product-level insights, including top-performing products,  and sales distribution.
+![Product Analysis](EDA_Using_Python/Photos/Product.png)
+Provides product-level insights, including top-performing products, and sales distribution.
 Helps identify winning products and areas for improvement, guiding production and marketing strategies.
 
 ### 🔹 Customer Analysis Dashboard
 
-![Customer Analysis]((Photos/Customer.png))
-Focuses on customer behavior , analyzing purchase patterns and engagement. 
+![Customer Analysis](EDA_Using_Python/Photos/Customer.png)
+Focuses on customer behavior, analyzing purchase patterns and engagement. 
 Enables understanding of loyalty, target segments, and buying trends,
 supporting tailored marketing campaigns and enhanced customer experience.
 
