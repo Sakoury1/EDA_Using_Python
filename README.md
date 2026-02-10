@@ -46,7 +46,7 @@ The project includes multiple dashboards designed to provide insights from diffe
 
 ### 🔹 Sales Dashboard
 
-![Sales Dashboard]((EDA_Using_Python/Photos/Sales.png)
+![Sales Dashboard](EDA_Using_Python/Photos/Sales.png)
 Highlights overall sales performance and revenue trends over time. Tracks key metrics like total sales, 
 and team or regional performance to support strategic decision-making and optimize business outcomes.
 
